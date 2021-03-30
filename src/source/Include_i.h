@@ -21,8 +21,8 @@ typedef StreamLatencyStateMachine* PStreamLatencyStateMachine;
 ////////////////////////////////////////////////////
 // Project include files
 ////////////////////////////////////////////////////
-#include <com/amazonaws/kinesis/video/cproducer/Include.h>
-#include <com/amazonaws/kinesis/video/common/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/cproducer/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/Include.h>
 
 #include <curl/curl.h>
 

@@ -44,7 +44,7 @@ extern "C" {
 #include <curl/curl.h>
 #endif
 
-#include <com/amazonaws/kinesis/video/common/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/Include.h>
 
 /**
  * Opaque struct for OpenSSL locking
