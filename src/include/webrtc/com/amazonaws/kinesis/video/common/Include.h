@@ -13,11 +13,11 @@ extern "C" {
 ////////////////////////////////////////////////////
 // Public headers
 ////////////////////////////////////////////////////
-#include <com/amazonaws/kinesis/video/client/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/client/Include.h>
 #ifndef JSMN_HEADER
 #define JSMN_HEADER
 #endif
-#include <com/amazonaws/kinesis/video/common/jsmn.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/jsmn.h>
 
 ////////////////////////////////////////////////////
 /// Common producer base return codes

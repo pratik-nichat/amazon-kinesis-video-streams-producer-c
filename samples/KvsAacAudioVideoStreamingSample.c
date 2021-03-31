@@ -1,4 +1,4 @@
-#include <com/amazonaws/kinesis/video/cproducer/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/cproducer/Include.h>
 
 #define DEFAULT_RETENTION_PERIOD     2 * HUNDREDS_OF_NANOS_IN_AN_HOUR
 #define DEFAULT_BUFFER_DURATION      120 * HUNDREDS_OF_NANOS_IN_A_SECOND

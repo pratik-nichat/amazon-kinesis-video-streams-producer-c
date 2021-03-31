@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include <com/amazonaws/kinesis/video/cproducer/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/cproducer/Include.h>
 #include <src/source/Include_i.h>
 #include "RotatingStaticAuthCallbacks.h"
 

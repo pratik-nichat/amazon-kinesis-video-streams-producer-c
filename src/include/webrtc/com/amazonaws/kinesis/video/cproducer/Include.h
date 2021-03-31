@@ -13,8 +13,8 @@ extern "C" {
 ////////////////////////////////////////////////////
 // Public headers
 ////////////////////////////////////////////////////
-#include <com/amazonaws/kinesis/video/client/Include.h>
-#include <com/amazonaws/kinesis/video/common/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/client/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/Include.h>
 
 ////////////////////////////////////////////////////
 /// Producer base return codes
